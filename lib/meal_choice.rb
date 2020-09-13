@@ -1,3 +1,3 @@
 def meal_choice(protein = 'tofu',veg1,veg2)
-  puts "What a nutricious meal!"
+  puts "What a nutritious meal!"
 end
